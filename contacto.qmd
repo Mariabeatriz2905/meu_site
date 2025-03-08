@@ -1,0 +1,9 @@
+---
+title: "Contacto"
+format: html
+---
+
+# 📬 Como Entrar em Contacto
+
+-   📧 **Email:** up202405126\@up.pt\
+-   📱 **GitHub:** <https://github.com/Mariabeatriz2905>

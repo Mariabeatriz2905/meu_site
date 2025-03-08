@@ -1,0 +1,17 @@
+---
+title: "Projetos"
+author: "Maria Beatriz"
+format: html
+---
+
+# 💡  O Meu Projeto
+
+## 🧑‍🔬 **PharmaVirtualClinic - Medicina Personalizada e Saúde Digital**
+
+Atualmente, estou envolvida no projeto **PharmaVirtualClinic**, uma iniciativa de investigação que visa utilizar simulações com dados farmacocinéticos e fisiológicos, partindo de estudos clínicos já realizados e validados. O objetivo do projeto é criar **pacientes virtuais** para simular cenários clínicos em ensaios das fases I, II e III, otimizando o desenvolvimento de novos medicamentos.
+
+O projeto está inserido no **Laboratório de Ideias** e viso estudar a relação entre **anti-inflamatórios** e **protetores gástricos**, particularmente no aumento do risco de cancro no estômago. Este trabalho, tem como finalidade acelerar o desenvolvimento de terapias personalizadas, garantindo mais precisão e segurança dos novos medicamentos antes de serem aplicados em seres humanos reais.
+
+Este projeto alia a **Saúde Digital** e a **Inteligência Artificial** para simular as condições farmacológicas e clínicas de forma mais precisa, permitindo que os tratamentos sejam mais eficazes e com menos efeitos secundários.
+
+![](PHARMA.jpg)

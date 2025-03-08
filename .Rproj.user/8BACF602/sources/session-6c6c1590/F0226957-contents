@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Maria Beatriz InovaSaúde"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "🏡 Início"
+      - href: cv.qmd
+        text: "🎓 Currículo"
+      - href: projetos.qmd
+        text: "💡 Projetos"
+      - href: contacto.qmd
+        text: "📬 Contacto"
+    
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,36 @@
+/* Mudando a cor de fundo do site */
+body {
+    background-color: #f4f4f9;
+    color: #333;
+    font-family: Arial, sans-serif;
+}
+
+/* Estilos para os títulos */
+h1, h2, h3 {
+    color: #007bff;
+    font-weight: bold;
+}
+
+/* Estilos para os links */
+a {
+    color: #007bff;
+}
+
+a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+/* Estilos para os botões */
+button {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}

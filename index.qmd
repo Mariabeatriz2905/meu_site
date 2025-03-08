@@ -1,0 +1,27 @@
+---
+title: "Bem-vindo ao meu Mundo!"
+author: "Maria Beatriz Pinto "
+format: html
+---
+
+# 🌍 Um Mundo de Descobertas e Inovação
+
+Eu sou a Maria Beatriz, estudante da licenciatura de **Saúde Digital e Inovação Biomédica**. Acredito que a vida é uma viagem constante de aprendizadem e transformação. Para mim, a verdadeira inovação vem não só da tecnologia, mas também das experiências que vivemos e das pessoas com quem nos cruzamos.
+
+Além de ser apaixonada por **inovação na saúde**, também sou alguém que encontra significado em momentos simples e em diversas atividades, como:
+
+🌱 **Fazer Voluntariado** – Ajudar os outros e fazer a diferença na vida de quem mais precisa é algo que me preenche profundamente.
+
+✈️ **Viajar** – Cada nova viagem é uma oportunidade de crescer, descobrir novas culturas e expandir horizontes.
+
+💃 **Dançar** – A dança é a minha forma de expressar alegria, liberdade e criatividade.
+
+Esses momentos de conexão humana e descoberta pessoal, combinados com a minha paixão por **tecnologia** e **saúde**, são o que me motiva a criar um futuro onde a medicina seja mais acessível, inovadora e humana.
+
+📢 **Descobre mais sobre mim e os meus projetos:**\
+<button onclick="window.location.href='cv.qmd'">🎓 Ver meu Currículo</button>\
+<button onclick="window.location.href='projetos.qmd'">💡 Conhecer o meu Projeto</button>
+
+## 🌟 Uma imagem vale mais que mil palavras
+
+![](saude.jpg)

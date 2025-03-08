@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 20978fb0-211f-4f52-9ee4-8a3d68421c88
+      url: 'https://glittering-sunshine-a5c05f.netlify.app'
